@@ -1,0 +1,8 @@
+New York,3.94%
+Los Angeles,3.99%
+Chicago,-1.05%
+Houston,9.77%
+Philadelphia,-3.97%
+San Francisco,-1.32%
+Boston,4.92%
+Seattle,5.00%
